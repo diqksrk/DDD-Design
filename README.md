@@ -14,9 +14,9 @@
 <p/>
 
 ## 4. API
-POST /user/join - 유저 생성
-POST /user/lecture/join - 강사회원 생성
-POST /user/login - 로그인
+POST /user/join - 유저 생성 <br/>
+POST /user/lecture/join - 강사회원 생성<br/>
+POST /user/login - 로그인<br/>
 
 POST /lecture/{lectureId}/enrolment - 수강신청
 GET /lecture/{lectureId}/content - 강의 컨텐츠 리스트 열람
