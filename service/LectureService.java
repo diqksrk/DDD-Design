@@ -13,6 +13,9 @@ public class LectureService {
 
     public HashMap<String, String> updateShowYnLecture();
 
-    public HashMap<String, String> enrollmentLecture();
+    public HashMap<String, String> showLecture();
 
+    public HashMap<String, String> giveStudentScore();
+
+    public HashMap<String, String> saveLetctureContent();
 }

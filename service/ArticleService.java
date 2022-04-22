@@ -8,4 +8,8 @@ public class ArticleService {
     public List<Article> articles();
 
     public List<Article> createArticle();
+
+    public List<Article> coments();
+
+    public List<Article> createComents();
 }
