@@ -8,3 +8,8 @@
 <p align="center">
 <img src="/img/universitySystemErd.JPG" style="float:left;" alt="img1">
 <p/>
+## 3. Entity
+<p align="center">
+<img src="/img/msaDesign.JPG" style="float:left;" alt="img1">
+<p/>
+
