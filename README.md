@@ -5,7 +5,7 @@
 <img src="/img/universitySystemDDDdesign.JPG" style="float:left;" alt="img1">
 <p/>
 
-## 2. Entity
+## 2. 디비설계
 <p align="center">
 <img src="/img/universitySystemErd.JPG" style="float:left;" alt="img1">
 <p/>
