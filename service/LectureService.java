@@ -8,5 +8,11 @@ import java.util.List;
 public class LectureService {
 
     public List<Lecture> lectures();
+
     public HashMap<String, String> createLecture();
+
+    public HashMap<String, String> updateShowYnLecture();
+
+    public HashMap<String, String> enrollmentLecture();
+
 }

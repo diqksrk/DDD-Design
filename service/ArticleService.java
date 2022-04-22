@@ -7,5 +7,5 @@ import java.util.List;
 public class ArticleService {
     public List<Article> articles();
 
-    public List<Article> articles();
+    public List<Article> createArticle();
 }
