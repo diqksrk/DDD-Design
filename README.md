@@ -9,12 +9,10 @@
 <p align="center">
 <img src="/img/universitySystemErd.JPG" style="float:left;" alt="img1">
 <p/>
- <br/>
 ## 3. MSA Architecture
 <p align="center">
 <img src="/img/msaDesign.JPG" style="float:left;" alt="img1">
 <p/>
- <br/>
 ## 4. API
 POST /user/join - 유저 생성 <br/>
 POST /user/lecture/join - 강사회원 생성<br/>
